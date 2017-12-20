@@ -1,4 +1,4 @@
 slackr
 ======
 
-Dumps all your Slack channel content out via their api
+bare minimum ruby code to dump slack history.
